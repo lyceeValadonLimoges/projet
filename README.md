@@ -1,2 +1,2 @@
 # projet
-Projet de la clsse ICN 1ère 2016
+Projet de la classe ICN 1ère 2016
